@@ -8,7 +8,6 @@ permalink: projects/inversetictactoe
 date: 2020-12-04
 labels:
   - Eclipse IDE
-  - ICS 111
   - Java
 summary: An Inverse Tic Tac Toe game I created for my ICS 111 Final Project.
 ---
