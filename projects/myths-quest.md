@@ -14,9 +14,14 @@ summary: A interactive game I made in High School for fun.
 
 <img class="ui medium right floated rounded image" src="../images/mythsquest.png">
 
-This simple web crawler was made solely with Java. The goal was to take in a web link as well as a specified wanted level as an input in the run configurations and output the number of links found in the given web link. It essentially "digs" into the file to display other weblinks up until the specified wanted level has been reached. I had help and advice from peers and a lot of collaboration took place into making this project work. There was no shared code-base, but there was a shared mindset to present different ideas and opinions.
+This interactive game was built using Python on a site called repl. I got the idea for this game based on the Netflix series, Black Mirror: Bandersnatch. The concept was that the choices you make at certain points in the story, affects the ending. You are making your own adventure. 
 
-While working on this web crawler I learned a lot. From extracting links given from an HTML document, finding web addresses, using regular expressions to filter through the given input, feeding everything into a breadth-first search (BFS) and depth-first search (DFS) algorithm to display the wanted output, and using everything we learned in 211, there was a lot to process and put together. A lot of new ideas and advanced subjects were brought up and since I had only taken ICS 111 (Intro to Java) at that time, I learned a lot and widened my horizon. The hardest part of this project was the implementation of the graph traversal algorithms which was more formally introduced in the following semester in my ICS 311 (Algorithms) course.
+In my interactive game, which I called "Myth's Quest," you have to successfully find the 3 artifacts to open the portal to return home. I started off by making a diagram of all the choices you could make and what each choice led to. The diagram helped me to keep track where I was when I was coding the game. It took me about a week to finish the entire game, and at that time was my longest project I worked on. The game has 5 different endings:
+#1.Successfully retrieve all artifacts to open the portal back home and both worlds remain in peace
+#2.Fail, get caught by officers, dead
+#3.Succeed, but the Young Threats also successfully took over the kingdom, which makes life harder for people
+#4.Chose the wrong artifact, died by an explosion
+#5.Failed to collect all 3 artifacts
  
 Source: <a href = "https://github.com/Cknakano/Myth-s-Quest"><i class="large github icon"></i>Cknakano/Myth-s-Quest</a>.
 
