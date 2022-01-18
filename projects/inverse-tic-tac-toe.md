@@ -16,22 +16,25 @@ summary: An Inverse Tic Tac Toe game I created for my ICS 111 Final Project.
   <img class="ui medium left floated image" src="../images/tictac2.png" />
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+Inverse Tic Tac Toe has opposite rules from the regular Tic Tac Toe game. The goal is to make your opponent get three in a row. If you get three in a row, you lose. This was my final project for ICS 111, where we learned the basics of Java. The hardest part of this project was getting the icons to spawn where the mouse clicked because I had to get the correct x and y positions. On top of that, drawing the shapes for the icons and the board was also a challenge. Although I had prior experience with Java, I never had to draw or create a mini game before. I learned how to use different mouse events, such as mousePressed and mouseReleased. ICS 111 taught me a lot about mouse listeners, JPanels, paint component, etc. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+Although it was an individual learning experience, I had some help from classmates and peers in understanding how to use the different components of draw, color, panels, etc. I developed more skills in Java and learned many things I did not know you could do in Eclipse before. The experience I gained through this project was extraordinary and even though not every part of the code works perfectly, it was a great experience and a challenge. 
 
-Here is some code that illustrates how we read values from the line sensors:
+Here is some code that illustrates how it reads where the mouse is clicked and draws the corresponding icon:
 
-```js
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
+```java
+public void mouseClicked(MouseEvent e) {
+      int xPos = e.getX()*3 / getWidth();
+      int yPos = e.getY()*3 / getHeight();
+      int pos = xPos + 3*yPos;
+      if (pos>=0 && pos<9 && position[pos]==BLANK) {
+        position[pos]=O;
+        repaint();
+        // Computer plays
+        putX();  
+        repaint();
+      }
     }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
 ```
 
 Source: <a href = "https://github.com/Cknakano/InverseTicTacToe"><i class="large github icon"></i>Cknakano/InverseTicTacToe</a>.
