@@ -1,61 +1,40 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+image: images/mp3pic.png
+title: Springtime Ride
+permalink: projects/springtimeride
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2019-10-07
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  - Python
+  - EarSketch
+summary: A song I built using Python in High School.
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
+<div class="center">
+  <img class="ui medium left floated image" src="../images/tictac2.png" />
+</div>
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+Inverse Tic Tac Toe has opposite rules from the regular Tic Tac Toe game. The goal is to make your opponent get three in a row. If you get three in a row, you lose. This was my final project for ICS 111, where we learned the basics of Java. The hardest part of this project was getting the icons to spawn where the mouse clicked because I had to get the correct x and y positions. On top of that, drawing the shapes for the icons and the board was also a challenge. Although I had prior experience with Java, I never had to draw or create a mini game before. I learned how to use different mouse events, such as mousePressed and mouseReleased. ICS 111 taught me a lot about mouse listeners, JPanels, paint component, etc. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+Although it was an individual learning experience, I had some help from classmates and peers in understanding how to use the different components of draw, color, panels, etc. I developed more skills in Java and learned many things I did not know you could do in Eclipse before. The experience I gained through this project was extraordinary and even though not every part of the code works perfectly, it was a great challenge. 
 
-<hr>
+Here is some code that illustrates how it reads where the mouse is clicked and draws the corresponding icon:
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+```java
+public void mouseClicked(MouseEvent e) {
+      int xPos = e.getX()*3 / getWidth();
+      int yPos = e.getY()*3 / getHeight();
+      int pos = xPos + 3*yPos;
+      if (pos>=0 && pos<9 && position[pos]==BLANK) {
+        position[pos]=O;
+        repaint();
+        // Computer plays
+        putX();  
+        repaint();
+      }
+    }
+```
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
-
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Source: <a href = "https://github.com/Cknakano/InverseTicTacToe"><i class="large github icon"></i>Cknakano/InverseTicTacToe</a>.
