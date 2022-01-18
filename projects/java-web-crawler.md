@@ -5,7 +5,7 @@ image: images/javawebcrawlerpic.jpeg
 title: Web Crawler
 permalink: projects/java-web-crawler
 # All dates must be YYYY-MM-DD format!
-date: 2020-04-01
+date: 2021-04-01
 labels:
   - Java
 summary: A simple web crawler built with Java for ICS 211.
