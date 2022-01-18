@@ -10,7 +10,7 @@ labels:
   - Eclipse IDE
   - ICS 111
   - Java
-summary: I developed an Inverse Tic Tac Toe game for my ICS 111 Final Project.
+summary: An Inverse Tic Tac Toe game I created for my ICS 111 Final Project.
 ---
 
 <div class="center">
