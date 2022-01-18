@@ -16,25 +16,17 @@ summary: A song I built using Python in High School.
   <img class="ui medium left floated image" src="../images/spring.jpg" />
 </div>
 
-Inverse Tic Tac Toe has opposite rules from the regular Tic Tac Toe game. The goal is to make your opponent get three in a row. If you get three in a row, you lose. This was my final project for ICS 111, where we learned the basics of Java. The hardest part of this project was getting the icons to spawn where the mouse clicked because I had to get the correct x and y positions. On top of that, drawing the shapes for the icons and the board was also a challenge. Although I had prior experience with Java, I never had to draw or create a mini game before. I learned how to use different mouse events, such as mousePressed and mouseReleased. ICS 111 taught me a lot about mouse listeners, JPanels, paint component, etc. 
+Springtime Ride was the title of the song I created using Python in Earsketch. In my high school computer science class, we were introduced to a programming site called Earsketch. The class taught us how to code in Python and Earsketch was a basic coding site that we could use to combine different sounds and tracks to make a song. We adjust the length, gain, effects, and tempo through code by setting different points in the song.
 
-Although it was an individual learning experience, I had some help from classmates and peers in understanding how to use the different components of draw, color, panels, etc. I developed more skills in Java and learned many things I did not know you could do in Eclipse before. The experience I gained through this project was extraordinary and even though not every part of the code works perfectly, it was a great challenge. 
+I used some of the effects given in Earsketch but I also used sounds that I created in GarageBand. I imported the sounds I made from GarageBand into EarSketch and used gain and other effects to adjust the flow of the song. Although it was a very simple task, it was fun to use our creativity to make a instrumental song using code. 
 
-Here is some code that illustrates how it reads where the mouse is clicked and draws the corresponding icon:
+Here is some code that illustrates how I set different effects in the song using points:
 
 ```python
-public void mouseClicked(MouseEvent e) {
-      int xPos = e.getX()*3 / getWidth();
-      int yPos = e.getY()*3 / getHeight();
-      int pos = xPos + 3*yPos;
-      if (pos>=0 && pos<9 && position[pos]==BLANK) {
-        position[pos]=O;
-        repaint();
-        // Computer plays
-        putX();  
-        repaint();
-      }
-    }
+#Volume Dynamics with Function- this effect helps us to fade away and then fade into the chorus using the envelope points we set in the beginning.
+setEffect(1, VOLUME, GAIN, 0, pointA, -5, pointB)
+setEffect(1, VOLUME, GAIN, -5, pointB, -20, pointC)
+setEffect(1, VOLUME, GAIN, -20, pointC, 6, pointD)
 ```
 
 Source: <a href = "https://github.com/Cknakano/Springtime-Ride-Song"><i class="large github icon"></i>Cknakano/Springtime-Ride-Song</a>.
