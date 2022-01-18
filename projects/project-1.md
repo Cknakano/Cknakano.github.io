@@ -13,7 +13,7 @@ labels:
 summary: I developed an Inverse Tic Tac Toe game for my ICS 111 Final Project.
 ---
 
-<div class="ui small rounded images">
+<div class="center">
   <img class="ui medium left floated image" src="../images/tictac2.png" />
 </div>
 
@@ -35,7 +35,7 @@ byte ADCRead(byte ch)
 }
 ```
 
-You can learn more at the [UH Micromouse Website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Source: <a href = "https://github.com/Cknakano/InverseTicTacToe"><i class="large github icon"></i>Cknakano/InverseTicTacToe</a>.
 
 
 
