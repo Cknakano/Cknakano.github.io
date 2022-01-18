@@ -13,7 +13,7 @@ summary: A song I built using Python in High School.
 ---
 
 <div class="center">
-  <img class="ui medium left floated image" src="../images/tictac2.png" />
+  <img class="ui medium left floated image" src="../images/spring.jpg" />
 </div>
 
 Inverse Tic Tac Toe has opposite rules from the regular Tic Tac Toe game. The goal is to make your opponent get three in a row. If you get three in a row, you lose. This was my final project for ICS 111, where we learned the basics of Java. The hardest part of this project was getting the icons to spawn where the mouse clicked because I had to get the correct x and y positions. On top of that, drawing the shapes for the icons and the board was also a challenge. Although I had prior experience with Java, I never had to draw or create a mini game before. I learned how to use different mouse events, such as mousePressed and mouseReleased. ICS 111 taught me a lot about mouse listeners, JPanels, paint component, etc. 
@@ -22,7 +22,7 @@ Although it was an individual learning experience, I had some help from classmat
 
 Here is some code that illustrates how it reads where the mouse is clicked and draws the corresponding icon:
 
-```java
+```python
 public void mouseClicked(MouseEvent e) {
       int xPos = e.getX()*3 / getWidth();
       int yPos = e.getY()*3 / getHeight();
@@ -37,4 +37,4 @@ public void mouseClicked(MouseEvent e) {
     }
 ```
 
-Source: <a href = "https://github.com/Cknakano/InverseTicTacToe"><i class="large github icon"></i>Cknakano/InverseTicTacToe</a>.
+Source: <a href = "https://github.com/Cknakano/Springtime-Ride-Song"><i class="large github icon"></i>Cknakano/Springtime-Ride-Song</a>.
