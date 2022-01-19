@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Java with the Script- Exploring a new ES
+title: Java with the Script- Exploring a New ES
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-19
 labels:
