@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui medium left floated image" src="../images/javascript.png">
+<img class="ui large centered image" src="../images/javas.png">
 
 ## Inspiration Point
 
