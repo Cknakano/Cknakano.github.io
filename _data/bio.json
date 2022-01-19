@@ -123,7 +123,7 @@
     {
       "organization": "Global Revival Church",
       "website": "http://www.grchawaii.org/",
-      "position": "",
+      "position": "Member",
       "startDate": "2006-11-01",
       "endDate": "Present",
       "summary": "Techonology, software, and management work",
@@ -138,7 +138,7 @@
     {
       "title": "Manoa Academic Merit Scholarship",
       "date": "2020-Present",
-      "awarder": "UH Manoa",
+      "awarder": "University of Hawai'i at Manoa",
       "summary": "Scholarship is an automatic $2,000 scholarship per year for four years of undergraduate study for first-time degree seeking students. Students must have a 3.5 GPA, 1200 SAT or 23 ACT upon the time of application to UH Manoa."
     },
     {
@@ -150,13 +150,13 @@
     {
       "title": "2021 UH Manoa Summer First-Year Merit Scholarship",
       "date": "2021",
-      "awarder": "UH Manoa Outreach College",
+      "awarder": "University of Hawai'i Manoa Outreach College",
       "summary": "University of Hawaiʻi at Mānoa Outreach College is pleased to offer a $1,200 merit scholarship to up to 100 first-year UH Mānoa students for Summer Sessions 2021. This award recognizes academically exceptional students who have demonstrated a commitment to completing their UH Mānoa degree in four years."
     },
     {
       "title": "Dean's List",
       "date": "2020-present",
-      "awarder": "UH Manoa",
+      "awarder": "University of Hawai'i at Manoa",
       "summary": "Undergraduate students are awarded the Dean's List distinction if they: (1) earn a semester grade point average of 3.5 or higher based on 12 credits or more taken for a grade (C/NC courses do not count), and (2) do not receive grades of W, I, F, or NC for that semester."
     }
   ],
