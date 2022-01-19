@@ -20,7 +20,5 @@ Through middle school, I continued to do robotics and different stem-related pro
 
 <img class="ui medium right floated image" src="../images/aidevelopment.png">
 ## Next Mission
-In the near future, I would like to learn more languages and become more skilled with the languages I currently know. I would like to get familiar with more frameworks, which would lead me to land internships and positions in different areas of Computer Science. My end goal is to be employed in a position in either AI development or software engineering. I would also like to travel around the world and share my knowledge.
-
-
+In the near future, I would like to learn more languages and become more skilled with the languages I currently know. I would like to get familiar with more frameworks, which would lead me to land internships and positions in different areas of Computer Science. My end goal is to be employed in a position in either AI development or software engineering. I would also like to travel around the world and share my knowledge. <br>
 
