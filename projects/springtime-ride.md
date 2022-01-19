@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/mp3.png
+image: images/mp3logo.jpg
 title: Springtime Ride
 permalink: projects/springtimeride
 # All dates must be YYYY-MM-DD format!
