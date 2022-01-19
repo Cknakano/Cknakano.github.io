@@ -106,7 +106,7 @@
       ]
     }
   ],
-  "activities": [
+  "volunteer": [
     {
       "organization": "JCHS Robotics",
       "website": "",
@@ -123,6 +123,7 @@
     {
       "organization": "Global Revival Church",
       "website": "http://www.grchawaii.org/",
+      "position": "",
       "startDate": "2006-11-01",
       "endDate": "Present",
       "summary": "Techonology, software, and management work",
