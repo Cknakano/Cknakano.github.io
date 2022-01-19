@@ -28,5 +28,6 @@ setEffect(1, VOLUME, GAIN, 0, pointA, -5, pointB)
 setEffect(1, VOLUME, GAIN, -5, pointB, -20, pointC)
 setEffect(1, VOLUME, GAIN, -20, pointC, 6, pointD)
 ```
+The hardest part of this project was making the different points to control the effects and volume. Also connecting the different bits of sounds so that the song does not cut off or transition weirdly was also difficult. However, many people enjoyed the sounds and it was great to see the different things you could do with Python.
 
 Source: <a href = "https://github.com/Cknakano/Springtime-Ride-Song"><i class="large github icon"></i>Cknakano/Springtime-Ride-Song</a>.
