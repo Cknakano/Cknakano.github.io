@@ -106,7 +106,7 @@
       ]
     }
   ],
-  "volunteer": [
+  "activities": [
     {
       "organization": "JCHS Robotics",
       "website": "",
@@ -119,9 +119,7 @@
         "Underwater Robotics: SeaPerch",
         "Mentor and encourage future robotics team members to be more developed in the programming area"
       ]
-    }
-  ],
-  "activities": [
+    },
     {
       "organization": "Global Revival Church",
       "website": "http://www.grchawaii.org/",
