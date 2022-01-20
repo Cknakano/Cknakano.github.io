@@ -109,6 +109,19 @@
   ],
   "volunteer": [
     {
+      "organization": "Global Revival Church",
+      "website": "http://www.grchawaii.org/",
+      "position": "Member",
+      "startDate": "2006-11-01",
+      "endDate": "Present",
+      "summary": "Techonology, software, and management work",
+      "highlights": [
+        "Work/help with sound system",
+        "Software/program management",
+        "Digital and physical library management",
+      ] 
+    },
+    {
       "organization": "JCHS Robotics",
       "website": "",
       "position": "Mentor/Former Head Programmer",
@@ -122,16 +135,16 @@
       ]
     },
     {
-      "organization": "Global Revival Church",
+      "organization": "JCHS Saber Security",
       "website": "http://www.grchawaii.org/",
-      "position": "Member",
-      "startDate": "2006-11-01",
+      "position": "Mentor",
+      "startDate": "2021-07-29",
       "endDate": "Present",
-      "summary": "Techonology, software, and management work",
+      "summary": "Advising, mentoring, and assisting with general computer science questions, issues or concerns",
       "highlights": [
-        "Help with sound system",
-        "Software/program management",
-        "Digital and physical library management",
+        "Cybersecurity",
+        "Computer Science",
+        "Mentor",
       ] 
     }
   ],
