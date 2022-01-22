@@ -11,7 +11,7 @@ labels:
 summary: A simple web crawler built with Java for ICS 211.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/webcrawler.png">
+<img class="ui small right floated rounded image" src="../images/webcrawler.png">
 
 This simple web crawler was made solely with Java. The goal was to take in a web link as well as a specified wanted level as an input in the run configurations and output the number of links found in the given web link. It essentially "digs" into the file to display other weblinks up until the specified wanted level has been reached. I had help and advice from peers and a lot of collaboration took place into making this project work. There was no shared code-base, but there was a shared mindset to present different ideas and opinions.
 
