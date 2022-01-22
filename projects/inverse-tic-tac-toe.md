@@ -13,7 +13,7 @@ summary: An Inverse Tic Tac Toe game I created for my ICS 111 Final Project.
 ---
 
 <div class="center">
-  <img class="ui medium left floated image" src="../images/tictac2.png" />
+  <img class="ui small left floated image" src="../images/tictac2.png" />
 </div>
 
 Inverse Tic Tac Toe has opposite rules from the regular Tic Tac Toe game. The goal is to make your opponent get three in a row. If you get three in a row, you lose. This was my final project for ICS 111, where we learned the basics of Java. The hardest part of this project was getting the icons to spawn where the mouse clicked because I had to get the correct x and y positions. On top of that, drawing the shapes for the icons and the board was also a challenge. Although I had prior experience with Java, I never had to draw or create a mini game before. I learned how to use different mouse events, such as mousePressed and mouseReleased. ICS 111 taught me a lot about mouse listeners, JPanels, paint component, etc. 
