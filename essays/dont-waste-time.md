@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Don’t Waste Time: Develop Better Questions
+title: Don’t Waste Time- Develop Better Questions
 # All dates must be YYYY-MM-DD format!
 date: 2022-01-26
 labels:
