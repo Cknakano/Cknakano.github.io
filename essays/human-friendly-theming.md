@@ -19,7 +19,7 @@ Whenever I used HTML and CSS to design a website, it took long hours and days to
 I have previous experiences of building websites using only HTML and CSS, starting from my highschool years. Although presentable, the resulting page looked like all the work I put in was the bare minimum and looked like something from the old days. I had many issues with making the media queries that control what the elements look like on different screen sizes. Struggling with HTML and CSS allowed me to understand what I’m doing behind the scenes of the UI frameworks. It allowed me to figure out what I need to change and how I should manipulate the different containers and elements. 
 
 <img class="ui huge rounded floated image" src="../images/raw-html-css.png">
-<img class="ui huge rounded floated image" src="../images/semantic.png">
+<img class="ui medium rounded floated image" src="../images/semantic.png">
 
 You can tell the difference between these two pictures. The webpage that was designed and developed using Semantic UI looks cleaner. With semantic UI, we can create a navbar using only a few calls of a few classes assigned to the div tags, reducing the amount of code and lines needed. When we create the page without a framework, we are limited to what it can look like and what we can do.
 
