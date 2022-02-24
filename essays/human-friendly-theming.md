@@ -21,7 +21,7 @@ I have previous experiences of building websites using only HTML and CSS, starti
 <img class="ui huge rounded floated image" src="../images/raw-html-css.png">
 <img class="ui huge rounded floated image" src="../images/semantic.png">
 
-You can tell the difference between these two pictures. The webpage that was designed and developed using Semantic UI looks cleaner. With Semantic UI, we can create a navbar using only a few calls of classes assigned to the div tags, reducing the amount of code and lines needed. When we create the page without a framework, we are limited to what it can look like and what we can do.
+You can tell the difference between these two pictures. The webpage that was designed and developed using Semantic UI looks cleaner. With Semantic UI, we can create a navbar using only a few calls of classes assigned to the div tags, reducing the amount of code and lines needed. When we create the page without a framework (like Semantic UI), we are limited to what it can look like and what we can do.
 
 ## Semantic Makes Life Easier
 We do not have to make our lives harder by trying to build up everything using HTML and CSS. Semantic UI already has these built-in features that we can use as frameworks for our website. There are various libraries with UI designs that we can incorporate into our sites. If we do not know what we need or how to use a certain feature, there are various documentations and resources that show us the endless possibilities. The only thing we need to remember is that everything takes time and practice. We have to learn this new framework and have it under our belt so we can make amazing and clean web pages. By investing a little time now, we can open a new horizon for our future.
