@@ -10,6 +10,9 @@ labels:
 ---
 
 ## How to Start on my Path?
+Many people choose to go to college to get their degrees and get qualifications required for a high-paying job. However, as we all know, just because you have a college degree, it does not guarantee a well-paid job. Many job markets are very competitive and getting your degree itself is very expensive and time consuming. Some students have to support themselves, without any support from friends or family and this can make it hard for them to achieve their dreams and start on their career. They can end up lost and lose their starting point on their path. Thankfully, RadGrad attempts to guide these students and provide them with opportunities, goals and courses that can help them start on their path in career development. 
+
+For me personally, RadGrad is a new experience and tool, but I have already implemented many of the features on the platform in my school life. I have been planning my degree from day one and I looked for opportunities such as competitions and internships. However, RadGrad introduced me to many opportunities, interests, and courses that I didn't know existed. Using what is provided, I was able to improve the plan I had and figured out new things I wanted to try and experiment with. 
 
 ## Experience RadGrad
 
