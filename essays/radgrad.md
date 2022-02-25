@@ -14,6 +14,8 @@ Many people choose to go to college to get their degrees and get qualifications 
 
 For me personally, RadGrad is a new experience and tool, but I have already implemented many of the features on the platform in my school life. I have been planning my degree from day one and I looked for opportunities such as competitions and internships. However, RadGrad introduced me to many opportunities, interests, and courses that I didn't know existed. Using what is provided, I was able to improve the plan I had and figured out new things I wanted to try and experiment with. 
 
+<img class="ui large right floated image" src="../images/radgradplanner.PNG">
+
 ## Experience RadGrad
 
 ## Worth It?
