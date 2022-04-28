@@ -10,6 +10,8 @@ labels:
   - Design Patterns
 ---
 
+<img class="ui large centered image" src="../images/javas.png">
+
 ## Getting to Know Design Patterns
 At first, I thought design patterns were what we use to draw out or design something in arts and crafts. How can we make something look nice? What can catch someone’s attention and make it appealing? But I discovered that on the higher level, it is a whole new dimension. According to Christopher Alexander, a design pattern describes some sort of problem in our environment that occurs many times, but we can come up with a solution that can be used over and over, without doing it the same way twice. A solution might work well in one place, but not in another. We can use design patterns to solve the problem that occurs in different environments with different methods. 
 
