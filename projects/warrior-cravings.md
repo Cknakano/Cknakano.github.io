@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/tictactoepic.png
+image: images/warrior-cravings-logo.png
 title: Warrior Cravings
 permalink: projects/warriorcravings
 # All dates must be YYYY-MM-DD format!
