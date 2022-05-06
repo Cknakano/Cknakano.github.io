@@ -12,6 +12,7 @@ labels:
   - HTML
   - CSS
   - React
+  - Meteor
   - Web Development
 summary: An app I created for a group project in 314 that allows students to see the food vendors and menu items available on campus. 
 ---
