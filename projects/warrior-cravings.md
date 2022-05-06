@@ -29,5 +29,6 @@ This was my first group project that involved coding. I learned the importance o
 
 I also learned that not everything we planned will all be implemented on time. We had a lot of features we wanted to implement, but since this is the first time for most of us, it was hard to figure out how to implement certain features. We wanted to implement a filter, like, and top choices features but we had to hold off on those due to time constraints. I was in charge of figuring out the filter system, but I ran into difficulties with implementing the radio fields and filtering exactly based on certain menu items and vendors. 
 
+Overall, coping with all of the difficulties and trying to find solutions to any errors we came across definitely helped me to gain more experience and knowledge. I got to learn and try many things I never knew we could do, and personalize what we learned in our own web application. 
 
 If you want to see our work, the GitHub for the project can be found <a href="https://warrior-cravings.github.io/">here</a>.
