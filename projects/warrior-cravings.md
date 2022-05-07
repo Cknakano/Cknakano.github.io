@@ -17,7 +17,7 @@ labels:
 summary: An app I created for a group project in 314 that allows students to see the food vendors and menu items available on campus. 
 ---
 
-Warrior Cravings is a web application that I worked on as a group project for software engineering course (ICS 314) at the University of Hawaii at Manoa. The University of Hawaiʻi at Mānoa campus offers a large selection of food places for students to enjoy and eat at. This app was created with a purpose to allow students to see all the unique food choices available on campus while providing a platform for Vendors to showcase their menu. 
+Warrior Cravings is a web application that I worked on as a group project for the software engineering course (ICS 314) at the University of Hawaii at Manoa. The University of Hawaiʻi at Mānoa campus offers a large selection of food places for students to enjoy and eat at. This app was created with a purpose to allow students to see all the unique food choices available on campus while providing a platform for Vendors to showcase their menu. 
 
 <img class="ui fluid rounded image" src="../images/landing-page-new.png">
 
