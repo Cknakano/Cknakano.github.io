@@ -9,6 +9,8 @@ labels:
   - Reflection
 ---
 
+<img class="ui large centered image" src="https://lvivity.com/wp-content/uploads/2019/09/project-manager.jpg">
+
 ## Becoming a Manager
 Having good management skills can help in not only software development, but in other aspects of our lives as well. One project management skill that I recently learned is one Agile Project Management called Issue Driven Project Management. While doing a group project for my software engineering class we had to find an approach to managing our project. This is when we learned about Issue Driven Project Management. It is an iterative approach to managing software development projects, mainly focusing on continuous releases and improvements based on feedback for each iteration. Each iteration has a fixed length, continuous adaptive planning, and continuous testing. We divide the work up into tasks that are specified by issues. Each issue is assigned an owner and this allows each person to have at least one issue that they are working on. These issues fall under milestones. 
 
