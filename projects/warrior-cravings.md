@@ -21,7 +21,7 @@ Warrior Cravings is a web application that I worked on as a group project for so
 
 <img class="ui fluid rounded image" src="../images/landing-page.png">
 
-While developing the app with project teammates, Jase Ishimi, Louie Bala, Mahie Crabbe, and Zachary Chaikin, I contributed to the team by improving the landing page, making the map page that shows the locations of the vendors, listing the vendors and linking them to the individual sites, and updating our homepage and keeping track of development.
+While developing the app with project teammates, Jase Ishimi, Louie Bala, Mahie Crabbe, and Zachary Chaikin, I contributed to the team by improving the landing page, making the map page that shows the locations of the vendors, listing the vendors and linking them to the individual sites, updating menu items and updating our homepage and keeping track of development.
 
 <img class="ui fluid rounded image" src="../images/locations-zoom.png">
 
