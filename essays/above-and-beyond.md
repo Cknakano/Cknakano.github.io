@@ -12,5 +12,3 @@ labels:
 ## Designing My World
 
 ## Management Skills
-
-## Standards in Our Life
