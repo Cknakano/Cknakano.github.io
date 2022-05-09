@@ -23,13 +23,13 @@ Warrior Cravings is a web application that I worked on as a group project for th
 
 While developing the app with project teammates, Jase Ishimi, Louie Bala, Mahie Crabbe, and Zachary Chaikin, I contributed to the team by improving the landing page, making the map page that shows the locations of the vendors, listing the vendors and linking them to the individual sites, updating menu items and updating our homepage and keeping track of development.
 
-<img class="ui fluid rounded image" src="../images/locations-new.png">
+<img class="ui fluid rounded image" src="../images/locations-updated-page.png">
 
 This was my first group project that involved coding. I learned the importance of working as a team and communication. Also more about project management, for this project we used something called, Issue Driven Project Management. This way of managing was very helpful since we could keep track of what needed to be done and who would be focusing on each task. 
 
-<img class="ui fluid rounded image" src="../images/all-vendors.png">
+<img class="ui fluid rounded image" src="../images/all-vendors-page.png">
 
-<img class="ui fluid rounded image" src="../images/vendor-card.png">
+<img class="ui fluid rounded image" src="../images/vendor-list-updated.png">
 
 I also learned that not everything we planned will all be implemented on time. We had a lot of features we wanted to implement, but since this is the first time for most of us, it was hard to figure out how to implement certain features. We wanted to implement a filter, like, and top choices features but we had to hold off on those due to time constraints. I was in charge of figuring out the filter system, but I ran into difficulties with implementing the radio fields and filtering exactly based on certain menu items and vendors. 
 
